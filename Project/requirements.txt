@@ -1,0 +1,39 @@
+# Core Language & Web App
+streamlit
+# python>=3.8
+
+# Data Handling
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+seaborn
+mplfinance
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Data Sources
+yfinance
+
+# Databases
+mysql-connector-python
+
+# (Optional) Jira integration if used
+jira
+
+google-generativeai
+
+pymongo
+
+lxml
+
+statsmodels
+
+bcrypt
+
+streamlit-extras
+
