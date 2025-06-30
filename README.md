@@ -1,6 +1,6 @@
 📈 Stock Market Dashboard
 
-🏆 Team Members Meghana Gudipati - mg23488n
+🏆 Team Members Meghana Gudipati - MG23488N
 
 Harshini Gullapally - HG62347N
 
