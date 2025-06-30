@@ -1,10 +1,9 @@
 📈 Stock Market Dashboard
 
 🏆 Team Members Meghana Gudipati - mg23488n
-
-Harshini Gullapally - HG62347N,
-Srinath Reddy Baddam - SB40856N,
-Nikhil Varma Dommaraju - ND75630N.
+Harshini Gullapally - HG62347N
+Srinath Reddy Baddam - SB40856N
+Nikhil Varma Dommaraju - ND75630N
 
 📌 Overview
 
