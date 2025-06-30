@@ -58,3 +58,6 @@ AI-powered sentiment analysis
 Automated alerts for market movements
 Predictive analytics for investment decisions
 Quarter Analysis
+
+PROJECT DEMO LINK :
+https://stockmarketdashboard-9oqi.onrender.com
